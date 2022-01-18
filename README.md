@@ -4,7 +4,7 @@
 by IBM via Coursera
 In Progress
 
-- Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
+-! Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
 1. Introduction to Data Engineering - [Completed] in blue
 2. Python for Data Science, AI & Development - [In Progress]
