@@ -1,11 +1,11 @@
 # IBM_Data_Engineering
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `IBM Data Engineering Professional Certificate`
-```diff
+
 by IBM via Coursera
 In Progress
 
-# Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
-
+- Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
+```diff
 1. Introduction to Data Engineering - [Completed] in blue
 2. Python for Data Science, AI & Development - [In Progress]
 4. Python Project for Data Engineering
