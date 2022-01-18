@@ -5,7 +5,7 @@
 
 - Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
-1. Introduction to Data Engineering [Completed]
+1. Introduction to Data Engineering                                       [Completed]
 2. Python for Data Science, AI & Development
 3. Python Project for Data Engineering
 4. Introduction to Relational Databases (RDBMs)
