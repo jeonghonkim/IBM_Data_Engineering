@@ -30,3 +30,4 @@ ecosystem.
 
 - Certificates
 <br /> 1. Introduction to Data Engineering - https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
+<br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
