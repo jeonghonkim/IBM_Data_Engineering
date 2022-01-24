@@ -6,8 +6,13 @@
 - Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
 ```diff
+
 1. Introduction to Data Engineering - [Completed]
+This course introduces the core concepts, processes, and tools you need to know in order to get a foundational knowledge of data engineering including the modern data ecosystem and the role Data Engineers, Data Scientists, and Data Analysts play in this ecosystem. 
+
 2. Python for Data Science, AI & Development - [In Progress]
+
+
 3. Python Project for Data Engineering
 4. Introduction to Relational Databases (RDBMs)
 5. Databases and SQL for Data Science with Python - [Completed]
