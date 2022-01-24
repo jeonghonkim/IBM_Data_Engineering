@@ -8,7 +8,8 @@
 ```diff
 
 1. Introduction to Data Engineering - [Completed]
-This course introduces the core concepts, processes, and tools you need to know in order to get a foundational knowledge of data engineering including the modern data ecosystem and the role Data Engineers, Data Scientists, and Data Analysts play in this ecosystem. 
+This course introduces the core concepts, processes, and tools you need to know in order to get a foundational knowledge of data 
+engineering including the modern data ecosystem and the role Data Engineers, Data Scientists, and Data Analysts play in this ecosystem. 
 
 2. Python for Data Science, AI & Development - [In Progress]
 
