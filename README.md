@@ -22,5 +22,4 @@
 ```
 
 - Certificates
-<br /> 1. Introduction to Data Engineering
-<br />   * https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
+<br /> 1. Introduction to Data Engineering - https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
