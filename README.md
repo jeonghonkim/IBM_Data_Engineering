@@ -3,6 +3,11 @@
 <br />by IBM via Coursera
 <br />In Progress
 
+- Certificates
+<br /> 1. Introduction to Data Engineering - https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
+<br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
+
+
 - Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
 ```diff
@@ -41,8 +46,6 @@ practice building and running SQL queries. You will also learn how to access dat
 12. Relational Database Administration (DBA)
 
 13. Data Engineering Capstone Project
+
 ```
 
-- Certificates
-<br /> 1. Introduction to Data Engineering - https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
-<br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
