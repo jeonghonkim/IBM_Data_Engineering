@@ -5,6 +5,7 @@
 
 - Certificates
 <br /> 1. Introduction to Data Engineering - https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
+<br /> 2. Python for Data Science, AI & Development - https://coursera.org/share/a5093f01bf1d37ce36fd4f4cc78db37c
 <br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
 
 
@@ -17,7 +18,7 @@ This course introduces you to the core concepts, processes, and tools you need t
 of data engineering. You will gain an understanding of the modern data ecosystem and the role Data Engineers, Data Scientists, 
 and Data Analysts play in this ecosystem. 
 
-2. Python for Data Science, AI & Development - [In Progress]
+2. Python for Data Science, AI & Development - [Completed]
 You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the 
 course modules, and create a final project to demonstrate your new skills.
 
