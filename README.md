@@ -22,7 +22,11 @@ and Data Analysts play in this ecosystem.
 You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the 
 course modules, and create a final project to demonstrate your new skills.
 
-3. Python Project for Data Engineering
+3. Python Project for Data Engineering - [In Progress]
+This mini-course is intended to apply foundational Python skills by implementing different techniques to collect and work with 
+data. Assume the role of a Data Engineer and extract data from multiple file formats, transform it into specific datatypes, and 
+then load it into a single source for analysis. Continue with the course and test your knowledge by implementing webscraping and 
+extracting data with APIs all with the help of multiple hands-on labs.
 
 4. Introduction to Relational Databases (RDBMs)
 
