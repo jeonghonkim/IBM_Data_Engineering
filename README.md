@@ -28,7 +28,12 @@ data. Assume the role of a Data Engineer and extract data from multiple file for
 then load it into a single source for analysis. Continue with the course and test your knowledge by implementing webscraping and 
 extracting data with APIs all with the help of multiple hands-on labs.
 
-4. Introduction to Relational Databases (RDBMs)
+4. Introduction to Relational Databases (RDBMs) - [In Progress]
+The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of 
+the SQL language. It is also intended to get you started with performing SQL access in a data science environment. The emphasis 
+in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and 
+real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building 
+and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
 
 5. Databases and SQL for Data Science with Python - [Completed]
 The purpose of this course is to introduce relational database concepts and foundational knowledge of the SQL language. It is 
