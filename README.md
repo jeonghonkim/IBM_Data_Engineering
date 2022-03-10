@@ -7,7 +7,7 @@
 <br /> 1. Introduction to Data Engineering - https://coursera.org/share/1080e415a654b259db7e53fe43b22b26
 <br /> 2. Python for Data Science, AI & Development - https://coursera.org/share/a5093f01bf1d37ce36fd4f4cc78db37c
 <br /> 3. Python Project for Data Engineering - https://coursera.org/share/869e9bee104e207ae20d3a35b059c6d9
-<br /> 4. Introduction to Relational Database (RDBMs) - In Progress
+<br /> 4. Introduction to Relational Database (RDBMs) - 
 <br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
 
 
@@ -30,7 +30,7 @@ data. Assume the role of a Data Engineer and extract data from multiple file for
 then load it into a single source for analysis. Continue with the course and test your knowledge by implementing webscraping and 
 extracting data with APIs all with the help of multiple hands-on labs.
 
-4. Introduction to Relational Databases (RDBMs) - [In Progress]
+4. Introduction to Relational Databases (RDBMs) - [Completed]
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of 
 the SQL language. It is also intended to get you started with performing SQL access in a data science environment. The emphasis 
 in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and 
