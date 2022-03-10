@@ -43,7 +43,11 @@ also intended to get you started with performing SQL access in a data science en
 hands-on and practical learning. You will create a database instance in the cloud. Through a series of hands-on labs you will 
 practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
 
-6. Introduction to NoSQL Databases
+6. Introduction to NoSQL Databases - [In Progress]
+This mini-course provides a practical introduction to commonly used Linux / UNIX shell commands and teaches you basics of Bash shell 
+scripting to automate a variety of tasks. The course includes both video-based lectures as well as hands-on labs to practice and apply 
+what you learn. You will have no-charge access to a virtual Linux server that you can access through your web browser, so you don't 
+need to download and install anything to perform the labs. 
 
 7. Introduction to Big Data with Spark and Hadoop
 
