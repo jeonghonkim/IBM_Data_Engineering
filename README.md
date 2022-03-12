@@ -45,9 +45,12 @@ practice building and running SQL queries. You will also learn how to access dat
 
 6. Hands-on Introductino to Linux Commands and Shell Scripting - [In Progress]
 This mini-course provides a practical introduction to commonly used Linux / UNIX shell commands and teaches you basics of Bash 
-shell scripting to automate a variety of tasks. The course includes both video-based lectures as well as hands-on labs to practice 
-and apply what you learn. You will have no-charge access to a virtual Linux server that you can access through your web browser, so 
-you don't need to download and install anything to perform the labs. 
+shell scripting to automate a variety of tasks. In this course you will work with general purpose commands like id, date, uname, 
+ps, top, echo, man; directory manageent commands such as pwd, cd, mkdir, rmdir, find, df; file management commands like cat, wget, 
+more, head, tail, cp, mv, touch, tar, zip, unzip; access control command chmod; text processing commands - wc, grep, tr; as well as 
+networking commands - hostname, ping, ifconfig and curl. You will create simple to more advanced shell scripts that involve Metacha-
+racters, Quoting, Variables, Command substitution, I/O Redirection, Pipes & Filters, and Command line arguments. You will also 
+schedule cron jobs using crontab.
 
 7. Introduction to Big Data with Spark and Hadoop
 
