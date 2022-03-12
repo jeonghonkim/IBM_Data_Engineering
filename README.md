@@ -52,19 +52,26 @@ networking commands - hostname, ping, ifconfig and curl. You will create simple 
 racters, Quoting, Variables, Command substitution, I/O Redirection, Pipes & Filters, and Command line arguments. You will also 
 schedule cron jobs using crontab.
 
-7. Introduction to Big Data with Spark and Hadoop
+7. Relational Database Administration (DBA)
 
-8. Data Engineering and Machine Learning using Spark
 
-9. Introduction to NoSQL Databases
+8. ETL and Data Pipelines with Shell, Airflow and Kafka
 
-10. ETL and Data Pipelines with Shell, Airflow and Kafka
 
-11. Getting Started with Data Warehousing and BI Analytics
+9. Getting Started with Data Warehousing and BI Analytics
 
-12. Relational Database Administration (DBA)
+
+10. Introduction to NoSQL Databases
+
+
+11. Introduction to Big Data with Spark and Hadoop
+
+
+12. Data Engineering and Machine Learning using Spark
+
 
 13. Data Engineering Capstone Project
+
 
 ```
 
