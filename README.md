@@ -9,7 +9,7 @@
 <br /> 3. Python Project for Data Engineering - https://coursera.org/share/869e9bee104e207ae20d3a35b059c6d9
 <br /> 4. Introduction to Relational Database (RDBMs) - https://www.coursera.org/account/accomplishments/verify/Z2XQETCVZ3HD
 <br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
-<br /> 6. Introduction to NoSQL Databases - In Progress
+<br /> 6. Hands-on Introductino to Linux Commands and Shell Scripting - In Progress
 
 - Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
