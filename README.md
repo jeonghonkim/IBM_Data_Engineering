@@ -54,7 +54,13 @@ racters, Quoting, Variables, Command substitution, I/O Redirection, Pipes & Filt
 schedule cron jobs using crontab.
 
 7. Relational Database Administration (DBA)
-
+In this course, you will discover some of the activities, techniques, and best practices for managing a database. You will learn 
+about configuring and upgrading database server software and related products. You will also learn about database security; how to 
+implement user authentication, assign roles, and assign object-level permissions. You will also gain an understanding of how to 
+perform backup and restore procedures in case of system failures. You will learn about how to optimize databases for performance, 
+monitor databases, collect diagnostic data, and access error information to help you resolve issues that may occur. Many of these 
+tasks are repetitive, so you will learn how to schedule maintenance activities and regular diagnostic tests and send automated 
+messages of the success or failure of a task.
 
 8. ETL and Data Pipelines with Shell, Airflow and Kafka
 
