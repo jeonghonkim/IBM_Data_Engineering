@@ -23,7 +23,9 @@ and Data Analysts play in this ecosystem.
 
 2. Python for Data Science, AI & Development - [Completed]
 You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the 
-course modules, and create a final project to demonstrate your new skills.
+course modules, and create a final project to demonstrate your new skills. By the end of this course, you’ll feel comfortable 
+creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more 
+advanced learning in the field, and develop skills to help advance your career. 
 
 3. Python Project for Data Engineering - [Completed]
 This mini-course is intended to apply foundational Python skills by implementing different techniques to collect and work with 
