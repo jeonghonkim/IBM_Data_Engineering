@@ -55,7 +55,7 @@ networking commands - hostname, ping, ifconfig and curl. You will create simple 
 racters, Quoting, Variables, Command substitution, I/O Redirection, Pipes & Filters, and Command line arguments. You will also 
 schedule cron jobs using crontab.
 
-7. Relational Database Administration (DBA)
+7. Relational Database Administration (DBA) - [In Progress]
 In this course, you will discover some of the activities, techniques, and best practices for managing a database. You will learn 
 about configuring and upgrading database server software and related products. You will also learn about database security; how to 
 implement user authentication, assign roles, and assign object-level permissions. You will also gain an understanding of how to 
