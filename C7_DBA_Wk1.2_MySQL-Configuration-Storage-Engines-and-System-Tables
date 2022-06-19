@@ -6,4 +6,3 @@ SHOW TABLES;
 
 -- 2. Manage MySQL Storage Engine
 SHOW ENGINES;
-
