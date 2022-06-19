@@ -1,6 +1,6 @@
 -- 1. Restore a Full Database from a Backup
-\i flights_RUSSIA_small.sql
-\dt
+-- \i flights_RUSSIA_small.sql
+-- \dt
 
 
 -- 2. Restore a Full Database from a Backup
@@ -14,9 +14,9 @@ INSERT INTO aircrafts_data(aircraft_code, model, range) VALUES (380, '{"en": "Ai
 -- A) "Accidentally" Delete the Database in pgAdmin
 -- B) Restore the Database using the Full Backup
 -- after pgadmin conficuation, enter the following command in the CLI
-\connect restored_demo
+-- \connect restored_demo
 SELECT pg_catalog.set_config('search_path',  'bookings', false);
-\dt
+-- \dt
 SELECT * FROM aircrafts_data;
 
 
@@ -34,5 +34,3 @@ UPDATE tickets SET passenger_name = 'SANYA KORELEVA' WHERE booking_ref = '0002D8
 -- Task C) perform a full backup of the restored_demo database.
 -- Enter the following command in the Cloud IDE terminal
 -- pg_dump --username=postgres --host=localhost restored_demo > restored_demo_backup.sql
-
-
