@@ -33,6 +33,6 @@ UPDATE tickets SET passenger_name = 'SANYA KORELEVA' WHERE booking_ref = '0002D8
 
 -- Task C) perform a full backup of the restored_demo database.
 -- Enter the following command in the Cloud IDE terminal
-pg_dump --username=postgres --host=localhost restored_demo > restored_demo_backup.sql
+-- pg_dump --username=postgres --host=localhost restored_demo > restored_demo_backup.sql
 
 
