@@ -1,5 +1,5 @@
 # IBM_Data_Engineering [22.01.04-]
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `IBM Data Engineering Professional Certificate`
+`IBM Data Engineering Professional Certificate`
 <br />by IBM via Coursera
 <br />In Progress
 
