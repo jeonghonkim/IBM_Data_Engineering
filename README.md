@@ -10,32 +10,32 @@
 <br /> 4. Introduction to Relational Database (RDBMs) - https://www.coursera.org/account/accomplishments/verify/Z2XQETCVZ3HD
 <br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
 <br /> 6. Hands-on Introductino to Linux Commands and Shell Scripting - https://www.coursera.org/account/accomplishments/verify/XL5J6P3NWU4D
-<br /> 7. Relational Database Administration (DBA) - In Progress
+<br /> 7. Relational Database Administration (DBA) - https://coursera.org/share/8ae4475be4ad7d41f75f65e867d595fd
 
 - Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
 ```diff
 
-1. Introduction to Data Engineering - [Completed]
+1. Introduction to Data Engineering - [Complete]
 This course introduces you to the core concepts, processes, and tools you need to know in order to get 
 a foundational knowledge of data engineering. You will gain an understanding of the modern data ecosystem 
 and the role Data Engineers, Data Scientists, and Data Analysts play in this ecosystem. 
 
-2. Python for Data Science, AI & Development - [Completed]
+2. Python for Data Science, AI & Development - [Complete]
 You will learn Python fundamentals, including data structures and data analysis, complete hands-on 
 exercises throughout the course modules, and create a final project to demonstrate your new skills. By the 
 end of this course, you’ll feel comfortable creating basic programs, working with data, and solving 
 real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, 
 and develop skills to help advance your career. 
 
-3. Python Project for Data Engineering - [Completed]
+3. Python Project for Data Engineering - [Complete]
 This mini-course is intended to apply foundational Python skills by implementing different techniques to 
 collect and work with data. Assume the role of a Data Engineer and extract data from multiple file formats, 
 transform it into specific datatypes, and then load it into a single source for analysis. Continue with the 
 course and test your knowledge by implementing webscraping and extracting data with APIs all with the help 
 of multiple hands-on labs.
 
-4. Introduction to Relational Databases (RDBMs) - [Completed]
+4. Introduction to Relational Databases (RDBMs) - [Complete]
 The purpose of this course is to introduce relational database concepts and help you learn and apply 
 foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access 
 in a data science environment. The emphasis in this course is on hands-on and practical learning . As such, 
@@ -43,7 +43,7 @@ you will work with real databases, real data science tools, and real-world datas
 database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL 
 queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
 
-5. Databases and SQL for Data Science with Python - [Completed]
+5. Databases and SQL for Data Science with Python - [Complete]
 The purpose of this course is to introduce relational database concepts and foundational knowledge of the SQL 
 language. It is also intended to get you started with performing SQL access in a data science environment. The 
 emphasis in this course is on hands-on and practical learning. You will create a database instance in the cloud. 
@@ -60,7 +60,7 @@ and curl. You will create simple to more advanced shell scripts that involve Met
 Command substitution, I/O Redirection, Pipes & Filters, and Command line arguments. You will also schedule cron 
 jobs using crontab.
 
-7. Relational Database Administration (DBA) - [In Progress]
+7. Relational Database Administration (DBA) - [Complete]
 In this course, you will discover some of the activities, techniques, and best practices for managing a database. 
 You will learn about configuring and upgrading database server software and related products. You will also learn 
 about database security; how to implement user authentication, assign roles, and assign object-level permissions. 
