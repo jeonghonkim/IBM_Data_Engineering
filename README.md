@@ -16,26 +16,26 @@
 
 ```diff
 
-1. Introduction to Data Engineering - [Complete]
+1. Introduction to Data Engineering - [Completed]
 This course introduces you to the core concepts, processes, and tools you need to know in order to get 
 a foundational knowledge of data engineering. You will gain an understanding of the modern data ecosystem 
 and the role Data Engineers, Data Scientists, and Data Analysts play in this ecosystem. 
 
-2. Python for Data Science, AI & Development - [Complete]
+2. Python for Data Science, AI & Development - [Completed]
 You will learn Python fundamentals, including data structures and data analysis, complete hands-on 
 exercises throughout the course modules, and create a final project to demonstrate your new skills. By the 
 end of this course, you’ll feel comfortable creating basic programs, working with data, and solving 
 real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, 
 and develop skills to help advance your career. 
 
-3. Python Project for Data Engineering - [Complete]
+3. Python Project for Data Engineering - [Completed]
 This mini-course is intended to apply foundational Python skills by implementing different techniques to 
 collect and work with data. Assume the role of a Data Engineer and extract data from multiple file formats, 
 transform it into specific datatypes, and then load it into a single source for analysis. Continue with the 
 course and test your knowledge by implementing webscraping and extracting data with APIs all with the help 
 of multiple hands-on labs.
 
-4. Introduction to Relational Databases (RDBMs) - [Complete]
+4. Introduction to Relational Databases (RDBMs) - [Completed]
 The purpose of this course is to introduce relational database concepts and help you learn and apply 
 foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access 
 in a data science environment. The emphasis in this course is on hands-on and practical learning . As such, 
@@ -43,14 +43,14 @@ you will work with real databases, real data science tools, and real-world datas
 database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL 
 queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
 
-5. Databases and SQL for Data Science with Python - [Complete]
+5. Databases and SQL for Data Science with Python - [Completed]
 The purpose of this course is to introduce relational database concepts and foundational knowledge of the SQL 
 language. It is also intended to get you started with performing SQL access in a data science environment. The 
 emphasis in this course is on hands-on and practical learning. You will create a database instance in the cloud. 
 Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how 
 to access databases from Jupyter notebooks using SQL and Python.
 
-6. Hands-on Introductino to Linux Commands and Shell Scripting - [Complete]
+6. Hands-on Introductino to Linux Commands and Shell Scripting - [Completed
 This mini-course provides a practical introduction to commonly used Linux / UNIX shell commands and teaches you 
 basics of Bash shell scripting to automate a variety of tasks. In this course you will work with general purpose 
 commands like id, date, uname, ps, top, echo, man; directory manageent commands such as pwd, cd, mkdir, rmdir, 
@@ -60,7 +60,7 @@ and curl. You will create simple to more advanced shell scripts that involve Met
 Command substitution, I/O Redirection, Pipes & Filters, and Command line arguments. You will also schedule cron 
 jobs using crontab.
 
-7. Relational Database Administration (DBA) - [Complete]
+7. Relational Database Administration (DBA) - [Completed]
 In this course, you will discover some of the activities, techniques, and best practices for managing a database. 
 You will learn about configuring and upgrading database server software and related products. You will also learn 
 about database security; how to implement user authentication, assign roles, and assign object-level permissions. 
@@ -70,8 +70,14 @@ error information to help you resolve issues that may occur. Many of these tasks
 how to schedule maintenance activities and regular diagnostic tests and send automated messages of the success or 
 failure of a task.
 
-8. ETL and Data Pipelines with Shell, Airflow and Kafka
-
+8. ETL and Data Pipelines with Shell, Airflow and Kafka - [In Progress]
+After taking this course, you will be able to describe two different approaches to converting raw data into analytics-
+ready data. You will experience how ELT and ETL processing differ and identify use cases for both. You will identify 
+methods and tools used for extracting the data, merging extracted data either logically or physically, and for importing 
+data into data repositories. You will also define transformations to apply to source data to make the data credible, 
+contextual, and accessible to data users. You will be able to outline some of the multiple methods for loading data into 
+the destination system, verifying data quality, monitoring load failures, and the use of recovery mechanisms in case of 
+failure.
 
 9. Getting Started with Data Warehousing and BI Analytics
 
