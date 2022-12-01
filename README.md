@@ -50,7 +50,7 @@ emphasis in this course is on hands-on and practical learning. You will create a
 Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how 
 to access databases from Jupyter notebooks using SQL and Python.
 
-6. Hands-on Introductino to Linux Commands and Shell Scripting - [Completed
+6. Hands-on Introductino to Linux Commands and Shell Scripting - [Completed]
 This mini-course provides a practical introduction to commonly used Linux / UNIX shell commands and teaches you 
 basics of Bash shell scripting to automate a variety of tasks. In this course you will work with general purpose 
 commands like id, date, uname, ps, top, echo, man; directory manageent commands such as pwd, cd, mkdir, rmdir, 
