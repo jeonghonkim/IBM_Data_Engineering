@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Exercise 1 - Extracting data using cut command
+
 # The command below shows how to extract the first four characters.
 echo "database" | cut -c1-4
 
@@ -17,3 +19,23 @@ cut -d":" -f1,3,6 /etc/passwd
 
 # The command below extracts a range of fields 3rd to 6th (userid, groupid, user description and home directory) from /etc/passwd.
 cut -d":" -f3-6 /etc/passwd 
+
+
+# Exercise 2 - Transforming data using tr
+
+# The command below translates all lower case alphabets to upper case.
+echo "Shell Scripting" | tr "[a-z]" "[A-Z]" 
+echo "Shell Scripting" | tr "[:lower:]" "[:upper:]" 
+
+# The command below translates all upper case alphabets to lower case.
+echo "Shell Scripting" | tr  "[A-Z]" "[a-z]" 
+
+# The command below replaces repeat occurrences of 'space' in the output of ps command with one 'space'.
+ps | tr -s " "
+ps | tr -s "[:space:]"
+
+# The command below deletes all digits.
+echo "My login pin is 5634" | tr -d "[:digit:]"
+
+
+
