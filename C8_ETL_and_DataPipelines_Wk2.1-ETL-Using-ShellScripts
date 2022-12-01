@@ -38,4 +38,23 @@ ps | tr -s "[:space:]"
 echo "My login pin is 5634" | tr -d "[:digit:]"
 
 
+# Exercise 3 - Start the PostgreSQL database.
+start_postgres
+
+
+# Exercise 4 - Create a table
+
+# Step 1: Connect to the database server
+psql --username=postgres --host=localhost
+
+# Step 2: Connect to a database.
+\c template1
+
+# Step 3: Create the table
+create table users(username varchar(50),userid int,homedirectory varchar(100));
+
+# Step 4: Quit the psql client
+\q
+
+
 
