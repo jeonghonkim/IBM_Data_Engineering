@@ -8,7 +8,7 @@ from airflow.utils.dates import days_ago
 defualt_args = {
     'owner': 'Jeong Hoon Kim',
     'start_date': days_ago(0),
-    'email': ['JeongHoon.Kim@cbre.com'],
+    'email': ['yourname@gmail.com'],
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
