@@ -8,7 +8,7 @@ from airflow.utils.dates import days_ago
 default_args = {
     'onwer': 'Jeong Hoon Kim',
     'start_date': days_ago(0),
-    'email': ['JeongHoon.Kim@cbre.com'],
+    'email': ['yourname@gmail.com'],
     'email_on_failture': True,
     'email_on_retry': True,
     'retries': 1,
