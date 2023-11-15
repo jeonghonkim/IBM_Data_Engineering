@@ -11,6 +11,7 @@
 <br /> 5. Databases and SQL for Data Science with Python - https://coursera.org/share/cce08d3e0cef1da887c1e07033875680
 <br /> 6. Hands-on Introductino to Linux Commands and Shell Scripting - https://www.coursera.org/account/accomplishments/verify/XL5J6P3NWU4D
 <br /> 7. Relational Database Administration (DBA) - https://coursera.org/share/8ae4475be4ad7d41f75f65e867d595fd
+<br /> 8. ETL and Data Pipelines with Shell, Airflow and Kafka - https://coursera.org/share/935e6b0141521f6214cc452a956d0c89
 
 - Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
 
@@ -70,17 +71,11 @@ error information to help you resolve issues that may occur. Many of these tasks
 how to schedule maintenance activities and regular diagnostic tests and send automated messages of the success or 
 failure of a task.
 
-8. ETL and Data Pipelines with Shell, Airflow and Kafka - [In Progress]
-After taking this course, you will be able to describe two different approaches to converting raw data into analytics-
-ready data. You will experience how ELT and ETL processing differ and identify use cases for both. You will identify 
-methods and tools used for extracting the data, merging extracted data either logically or physically, and for importing 
-data into data repositories. You will also define transformations to apply to source data to make the data credible, 
-contextual, and accessible to data users. You will be able to outline some of the multiple methods for loading data into 
-the destination system, verifying data quality, monitoring load failures, and the use of recovery mechanisms in case of 
-failure.
+8. ETL and Data Pipelines with Shell, Airflow and Kafka - [Completed]
+https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka#outcomes
 
-9. Getting Started with Data Warehousing and BI Analytics
-
+9. Getting Started with Data Warehousing and BI Analytics - [In Progress]
+https://www.coursera.org/learn/getting-started-with-data-warehousing-and-bi-analytics#outcomes
 
 10. Introduction to NoSQL Databases
 
