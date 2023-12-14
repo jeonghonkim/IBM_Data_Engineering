@@ -24,11 +24,11 @@
 <br/> **9. Getting Started with Data Warehousing and BI Analytics**
 <br/>- *https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842*
 <br/> 10. Introduction to NoSQL Databases [In Progress]
-<br/><br/>
+<br/>
 <br/> 11. Introduction to Big Data with Spark and Hadoop
-<br/><br/>
+<br/>
 <br/> 12. Data Engineering and Machine Learning uisng Spark
-<br/><br/>
+<br/>
 <br/> 13. Data Engineering Capstone Project
 <br/>
 
