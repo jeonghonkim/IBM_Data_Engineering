@@ -3,7 +3,6 @@
 <br/>by IBM via Coursera
 <br/>In Progress
 
-<br/>
 - Certificates
 <br/> **1. Introduction to Data Engineering** [Completed]
 <br/>- *https://coursera.org/share/1080e415a654b259db7e53fe43b22b26*
@@ -30,7 +29,6 @@
 <br/> 12. Data Engineering and Machine Learning uisng Spark
 <br/>
 <br/> 13. Data Engineering Capstone Project
-<br/>
 
 - Course Information
 <BR/>- *https://www.coursera.org/professional-certificates/ibm-data-engineer*
