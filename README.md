@@ -23,7 +23,8 @@
 <br/> **9. Getting Started with Data Warehousing and BI Analytics**
 <br/>- *https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842*
 
-- Course Information: https://www.coursera.org/professional-certificates/ibm-data-engineer
+- Course Information
+<BR/>- *https://www.coursera.org/professional-certificates/ibm-data-engineer*
 
 ```diff
 
