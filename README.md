@@ -29,3 +29,13 @@
 
 - Course Information
 <BR/>- *https://www.coursera.org/professional-certificates/ibm-data-engineer*
+  * Skill Sets
+  - Design a relational database to help a coffee franchise improve operations.
+  - Use SQL to query census, crime, and school demographic data sets.
+  - Write a Bash shell script on Linux that backups changed files.
+  - Set up, test, and optimize a data platform that contains MySQL, PostgreSQL, and IBM Db2 databases.
+  - Analyze road traffic data to perform ETL and create a pipeline using Airflow and Kafka.
+  - Design and implement a data warehouse for a solid-waste management company.
+  - Move, query, and analyze data in MongoDB, Cassandra, and Cloudant NoSQL databases.
+  - Train a machine learning model by creating an Apache Spark application.
+  - Design, deploy, and manage an end-to-end data engineering platform.
