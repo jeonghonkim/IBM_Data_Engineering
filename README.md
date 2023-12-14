@@ -29,7 +29,7 @@
 
 - Course Information
 <BR/>- *https://www.coursera.org/professional-certificates/ibm-data-engineer*
-  **Skill Sets**
+<br/>**Skill Sets**
   - Design a relational database to help a coffee franchise improve operations.
   - Use SQL to query census, crime, and school demographic data sets.
   - Write a Bash shell script on Linux that backups changed files.
