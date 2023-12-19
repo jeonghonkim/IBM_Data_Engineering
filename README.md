@@ -66,8 +66,37 @@
   * Troubleshoot database issues such as connectivity, login, and configuration and automate functions such as reports, notifications, and alerts.<br/><br/>
 
 **8. ETL and Data Pipelines with Shell, Airflow and Kafka** &nbsp;`Completed`<br/>
+  * Describe and contrast Extract, Transform, Load (ETL) processes and Extract, Load, Transform (ELT) processes.
+  * Explain batch vs concurrent modes of execution.
+  * Implement an ETL pipeline through shell scripting.
+  * Describe data pipeline components, processes, tools, and technologies.<br/><br/>
+
 **9. Getting Started with Data Warehousing and BI Analytics** &nbsp;`Completed`<br/>
+  * Explore the architecture, features, and benefits of data warehouses, data marts, and data lakes and identify popular data warehouse system vendors.
+  * Design and populate a data warehouse, and model and query data using CUBE, ROLLUP, and materialized views.
+  * Identify popular data analytics and business intelligence tools and vendors and create data visualizations using IBM Cognos Analytics.
+  * Design and load data into a data warehouse, write aggregation queries, create materialized query tables, and create an analytics dashboard.<br/><br/>
+
 **10. Introduction to NoSQL Databases** &nbsp;`In Progress`<br/>
+  * Differentiate between the four main categories of NoSQL repositories.
+  * Describe the characteristics, features, benefits, limitations, and applications of the more popular Big Data processing tools.
+  * Perform common tasks using MongoDB tasks including create, read, update, and delete (CRUD) operations.
+  * Execute keyspace, table, and CRUD operations in Cassandra.<br/><br/>
+
 **11. Introduction to Big Data with Spark and Hadoop** <br/>
+  * Explain the impact of big data, including use cases, tools, and processing methods.
+  * Describe Apache Hadoop architecture, ecosystem, practices, and user-related applications, including Hive, HDFS, HBase, Spark, and MapReduce.
+  * Apply Spark programming basics, including parallel programming basics for DataFrames, data sets, and Spark SQL.
+  * Use Spark’s RDDs and data sets, optimize Spark SQL using Catalyst and Tungsten, and use Spark’s development and runtime environment options.<br/><br/>
+
 **12. Data Engineering and Machine Learning uisng Spark** <br/>
+  * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence.
+  * Evaluate ML models, distinguish between regression, classification, and clustering models, and compare data engineering pipelines with ML pipelines.
+  * Construct the data analysis processes using Spark SQL, and perform regression, classification, and clustering using SparkML.
+  * Demonstrate connecting to Spark clusters, build ML pipelines, perform feature extraction and transformation, and model persistence.<br/><br/>
+
 **13. Data Engineering Capstone Project** <br/>
+  * Demonstrate proficiency in skills required for an entry-level data engineering role.
+  * Design and implement various concepts and components in the data engineering lifecycle such as data repositories.
+  * Showcase working knowledge with relational databases, NoSQL data stores, big data engines, data warehouses, and data pipelines.
+  * Apply skills in Linux shell scripting, SQL, and Python programming languages to Data Engineering problems.<br/>
