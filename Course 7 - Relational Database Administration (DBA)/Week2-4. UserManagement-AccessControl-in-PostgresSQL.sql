@@ -1,15 +1,6 @@
--- Cloud IDE Terminal 
-wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/example-guided-project/flights_RUSSIA_small.sql
-
 -- PostgreSQL CLI
-\i flights_RUSSIA_small.sql
-\dt
-
-
 
 -- 1. Create New Roles and Grant them Relevant Privileges
-
--- PostgreSQL CLI
 CREATE ROLE read_only;
 GRANT CONNECT ON DATABASE demo TO read_only;
 GRANT USAGE ON SCHEMA bookings TO read_only;
@@ -19,28 +10,14 @@ GRANT CONNECT ON DATABASE demo TO read_write;
 GRANT USAGE ON SCHEMA bookings TO read_write;
 GRANT SELECT, INSERT, DELETE, UPDATE ON ALL TABLES IN SCHEMA bookings TO read_write;
 
-
-
 -- 2. Add a New User and Assign them a Relevant Role
-
--- PostgreSQL CLI
 CREATE USER user_a WITH PASSWORD 'user_a_password';
 GRANT read_only TO user_a;
-\du
-
-
 
 -- 3. Revoke and Deny Access
-
--- PostgreSQL CLI
 REVOKE SELECT ON aircrafts_data FROM user_a;
 REVOKE read_only FROM user_a;
-\du
-
-
 
 -- 4. EXCERCISE 
-
--- PostgreSQL CLI
 CREATE USER user_b WITH PASSWORD 'user_b_passwrod';
 GRANT read_write TO user_b;
