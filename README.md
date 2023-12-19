@@ -1,11 +1,12 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jeonghonkim/IBM_Data_Engineering)
 ![GitHub top language](https://img.shields.io/github/languages/top/jeonghonkim/IBM_Data_Engineering?color=blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jeonghonkim/IBM_Data_Engineering?style=social)
-# IBM Data Engineering [22.01.04-]
-`IBM Data Engineering Professional Certificate`
+# IBM Data Engineering Professional Certificate
+`In Progress`
 <br/>by IBM via Coursera
 <br/>In Progress
 
+## Course Details
 - Certificates
 <br/> **1. Introduction to Data Engineering** [Completed]
 <br/>- *https://coursera.org/share/1080e415a654b259db7e53fe43b22b26*
