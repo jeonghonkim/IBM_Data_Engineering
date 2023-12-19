@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=blue)
+![GitHub top language](https://img.shields.io/github/languages/top/{jeonghonkim}/{IBM_Data_Engineering}?color=blue)
 # IBM Data Engineering [22.01.04-]
 `IBM Data Engineering Professional Certificate`
 <br/>by IBM via Coursera
