@@ -77,7 +77,7 @@
   * Identify popular data analytics and business intelligence tools and vendors and create data visualizations using IBM Cognos Analytics.
   * Design and load data into a data warehouse, write aggregation queries, create materialized query tables, and create an analytics dashboard.<br/><br/>
 
-**10. [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=ibm-data-engineer)**
+**10. [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=ibm-data-engineer)** &nbsp;`Completed`
   * Differentiate between the four main categories of NoSQL repositories.
   * Describe the characteristics, features, benefits, limitations, and applications of the more popular Big Data processing tools.
   * Perform common tasks using MongoDB tasks including create, read, update, and delete (CRUD) operations.
