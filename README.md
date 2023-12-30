@@ -16,10 +16,10 @@
 * **Course 7. [Relational Database Administration (DBA)](https://coursera.org/share/8ae4475be4ad7d41f75f65e867d595fd)**
 * **Course 8. [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/935e6b0141521f6214cc452a956d0c89)**
 * **Course 9. [Getting Started with Data Warehousing and BI Analytics](https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842)**
-* **Course 10. Introduction to NoSQL Databases** &nbsp;`In Progress`
+* **Course 10. [Introduction to NoSQL Databases](https://coursera.org/share/5ea1dfbb8741e141912022b8e8654b37)**
 * **Course 11. Introduction to Big Data with Spark and Hadoop** &nbsp;`In Progress`
-* **Course 12. Data Engineering and Machine Learning uisng Spark**
-* **Course 13. Data Engineering Capstone Project**
+* **Course 12. Data Engineering and Machine Learning uisng Spark** &nbsp;`In Progress`
+* **Course 13. Data Engineering Capstone Project** &nbsp;`In Progress`
 <br/>
 
 ## Course Details
@@ -77,7 +77,7 @@
   * Identify popular data analytics and business intelligence tools and vendors and create data visualizations using IBM Cognos Analytics.
   * Design and load data into a data warehouse, write aggregation queries, create materialized query tables, and create an analytics dashboard.<br/><br/>
 
-**10. [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
+**10. [Introduction to NoSQL Databases](https://www.coursera.org/learn/introduction-to-nosql-databases?specialization=ibm-data-engineer)**
   * Differentiate between the four main categories of NoSQL repositories.
   * Describe the characteristics, features, benefits, limitations, and applications of the more popular Big Data processing tools.
   * Perform common tasks using MongoDB tasks including create, read, update, and delete (CRUD) operations.
@@ -89,13 +89,13 @@
   * Apply Spark programming basics, including parallel programming basics for DataFrames, data sets, and Spark SQL.
   * Use Spark’s RDDs and data sets, optimize Spark SQL using Catalyst and Tungsten, and use Spark’s development and runtime environment options.<br/><br/>
 
-**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)** <br/>
+**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
   * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence.
   * Evaluate ML models, distinguish between regression, classification, and clustering models, and compare data engineering pipelines with ML pipelines.
   * Construct the data analysis processes using Spark SQL, and perform regression, classification, and clustering using SparkML.
   * Demonstrate connecting to Spark clusters, build ML pipelines, perform feature extraction and transformation, and model persistence.<br/><br/>
 
-**13. [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer)** <br/>
+**13. [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
   * Demonstrate proficiency in skills required for an entry-level data engineering role.
   * Design and implement various concepts and components in the data engineering lifecycle such as data repositories.
   * Showcase working knowledge with relational databases, NoSQL data stores, big data engines, data warehouses, and data pipelines.
