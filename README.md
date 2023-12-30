@@ -18,8 +18,8 @@
 * **Course 9. [Getting Started with Data Warehousing and BI Analytics](https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842)**
 * **Course 10. [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/verify/B86E3M4KGSCB)**
 * **Course 11. Introduction to Big Data with Spark and Hadoop** &nbsp;`In Progress`
-* **Course 12. Data Engineering and Machine Learning uisng Spark** &nbsp;`In Progress`
-* **Course 13. Data Engineering Capstone Project** &nbsp;`In Progress`
+* **Course 12. Data Engineering and Machine Learning uisng Spark** 
+* **Course 13. Data Engineering Capstone Project** 
 <br/>
 
 ## Course Details
@@ -89,13 +89,13 @@
   * Apply Spark programming basics, including parallel programming basics for DataFrames, data sets, and Spark SQL.
   * Use Spark’s RDDs and data sets, optimize Spark SQL using Catalyst and Tungsten, and use Spark’s development and runtime environment options.<br/><br/>
 
-**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
+**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)** <br/>
   * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence.
   * Evaluate ML models, distinguish between regression, classification, and clustering models, and compare data engineering pipelines with ML pipelines.
   * Construct the data analysis processes using Spark SQL, and perform regression, classification, and clustering using SparkML.
   * Demonstrate connecting to Spark clusters, build ML pipelines, perform feature extraction and transformation, and model persistence.<br/><br/>
 
-**13. [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
+**13. [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer)** `<br/>
   * Demonstrate proficiency in skills required for an entry-level data engineering role.
   * Design and implement various concepts and components in the data engineering lifecycle such as data repositories.
   * Showcase working knowledge with relational databases, NoSQL data stores, big data engines, data warehouses, and data pipelines.
