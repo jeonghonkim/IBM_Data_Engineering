@@ -17,8 +17,8 @@
 * **Course 8. [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/935e6b0141521f6214cc452a956d0c89)**
 * **Course 9. [Getting Started with Data Warehousing and BI Analytics](https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842)**
 * **Course 10. [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/verify/B86E3M4KGSCB)**
-* **Course 11. Introduction to Big Data with Spark and Hadoop** &nbsp;`In Progress`
-* **Course 12. Data Engineering and Machine Learning uisng Spark** 
+* **Course 11. [Introduction to Big Data with Spark and Hadoop](https://coursera.org/share/b50193f5ea4410da5df776602484af1e)** 
+* **Course 12. Data Engineering and Machine Learning uisng Spark** &nbsp;`In Progress`
 * **Course 13. Data Engineering Capstone Project** 
 <br/>
 
