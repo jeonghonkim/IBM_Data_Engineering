@@ -83,13 +83,13 @@
   * Perform common tasks using MongoDB tasks including create, read, update, and delete (CRUD) operations.
   * Execute keyspace, table, and CRUD operations in Cassandra.<br/><br/>
 
-**11. [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
+**11. [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)** &nbsp;`Completed`<br/>
   * Explain the impact of big data, including use cases, tools, and processing methods.
   * Describe Apache Hadoop architecture, ecosystem, practices, and user-related applications, including Hive, HDFS, HBase, Spark, and MapReduce.
   * Apply Spark programming basics, including parallel programming basics for DataFrames, data sets, and Spark SQL.
   * Use Spark’s RDDs and data sets, optimize Spark SQL using Catalyst and Tungsten, and use Spark’s development and runtime environment options.<br/><br/>
 
-**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)** <br/>
+**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)** &nbsp;`In Progress`<br/>
   * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence.
   * Evaluate ML models, distinguish between regression, classification, and clustering models, and compare data engineering pipelines with ML pipelines.
   * Construct the data analysis processes using Spark SQL, and perform regression, classification, and clustering using SparkML.
