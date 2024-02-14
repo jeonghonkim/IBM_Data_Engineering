@@ -1,4 +1,4 @@
-# Data Platform Architecture and OLTP Database<br/>
+# Build a Data Warehouse and Data Warehousing Reporting<br/>
 
 ## Assignment 1 <br/>
 

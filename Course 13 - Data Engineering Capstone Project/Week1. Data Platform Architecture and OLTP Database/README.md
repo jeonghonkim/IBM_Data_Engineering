@@ -1,4 +1,4 @@
-# Data Platform Architecture and OLTP Database<br/>
+# Data Platform Architecture and OLTP Database <br/>
 
 ## Scenario <br/>
 You are a data engineer at an e-commerce company. Your company needs you to design a data platform that uses MySQL as an OLTP database. You will be using MySQL to store the OLTP data. <br/>

@@ -1,4 +1,4 @@
-# Data Platform Architecture and OLTP Database<br/>
+# Data Analytics and Dashboard Creation <br/>
 
 ## Scenario <br/>
 You are a data engineer at an e-commerce company. Your company has finished setting up a data warehouse. Now you are assigned the responsibility to design a reporting dashboard that reflects the key metrics of the business. <br/>
