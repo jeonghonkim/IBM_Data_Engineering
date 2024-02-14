@@ -6,7 +6,6 @@ You are a data engineer hired by an ecommerce company named SoftCart.com . The c
 * total sales per month per category
 * total sales per quarter per country
 * total sales per category per country <br>
-You will use your data warehousing skills to design and implement a data warehouse for the company. <br/>
 
 ## Objectives <br/>
 * Design a Data Warehouse using the pgAdmin ERD design tool.
