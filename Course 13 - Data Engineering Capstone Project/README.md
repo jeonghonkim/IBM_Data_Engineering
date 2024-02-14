@@ -2,7 +2,8 @@
 
 ## Description <br/>
 This document introduces you to the data platform architecture of an ecommerce company named SoftCart.<br/>
-SoftCart uses a hybrid architecture, with some of its databases on premises and some on cloud.
+SoftCart uses a hybrid architecture, with some of its databases on premises and some on cloud. <br/><br/>
+<img src="https://github.com/jeonghonkim/IBM_Data_Engineering/blob/main/Course%2013%20-%20Data%20Engineering%20Capstone%20Project/data_platform_architecture.png" width="1200" height="600"> <br>
 </br>
 
 ## Tools and Technologies <br/>
