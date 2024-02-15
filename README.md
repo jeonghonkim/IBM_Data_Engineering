@@ -7,7 +7,7 @@
 <br/>
 
 ## Certificates <br/>
-> *[IBM Data Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/B6JP4EYH32Z4)** <br/>
+> **[IBM Data Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/B6JP4EYH32Z4)** <br/>
 * Course 1. [Introduction to Data Engineering](https://coursera.org/share/1080e415a654b259db7e53fe43b22b26)
 * Course 2. [Python for Data Science, AI & Development](https://coursera.org/share/a5093f01bf1d37ce36fd4f4cc78db37c)
 * Course 3. [Python Project for Data Engineering](https://coursera.org/share/869e9bee104e207ae20d3a35b059c6d9)
