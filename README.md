@@ -2,8 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/jeonghonkim/IBM_Data_Engineering?color=blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jeonghonkim/IBM_Data_Engineering?style=social)
 # [IBM Data Engineering Professional](https://www.coursera.org/professional-certificates/ibm-data-engineer)
-`Completed`
-<br/>by IBM via Coursera<br/>
+<br/>by IBM via Coursera `Completed`<br/>
 <br/>
 
 ## Certificates <br/>
