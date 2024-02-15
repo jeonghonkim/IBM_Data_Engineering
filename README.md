@@ -8,18 +8,18 @@
 
 ## Certificates
 * Course 1. [Introduction to Data Engineering](https://coursera.org/share/1080e415a654b259db7e53fe43b22b26)
-* **Course 2. [Python for Data Science, AI & Development](https://coursera.org/share/a5093f01bf1d37ce36fd4f4cc78db37c)**
-* **Course 3. [Python Project for Data Engineering](https://coursera.org/share/869e9bee104e207ae20d3a35b059c6d9)**
-* **Course 4. [Introduction to Relational Database (RDBMs)](https://www.coursera.org/account/accomplishments/verify/Z2XQETCVZ3HD)**
-* **Course 5. [Databases and SQL for Data Science with Python](https://coursera.org/share/cce08d3e0cef1da887c1e07033875680)**
-* **Course 6. [Hands-on Introductino to Linux Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/verify/XL5J6P3NWU4D)**
-* **Course 7. [Relational Database Administration (DBA)](https://coursera.org/share/8ae4475be4ad7d41f75f65e867d595fd)**
-* **Course 8. [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/935e6b0141521f6214cc452a956d0c89)**
-* **Course 9. [Getting Started with Data Warehousing and BI Analytics](https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842)**
-* **Course 10. [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/verify/B86E3M4KGSCB)**
-* **Course 11. [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/account/accomplishments/verify/C6GF4PAD3RGH)** 
-* **Course 12. [Data Engineering and Machine Learning uisng Spark](https://coursera.org/share/7190d4b62ddec1c5b7b62fa4b2e65f0c)** 
-* **Course 13. [Data Engineering Capstone Project](https://coursera.org/share/c57355a985791c4323df2aba64c54bc8)**
+* Course 2. [Python for Data Science, AI & Development](https://coursera.org/share/a5093f01bf1d37ce36fd4f4cc78db37c)
+* Course 3. [Python Project for Data Engineering](https://coursera.org/share/869e9bee104e207ae20d3a35b059c6d9)
+* Course 4. [Introduction to Relational Database (RDBMs)](https://www.coursera.org/account/accomplishments/verify/Z2XQETCVZ3HD)
+* Course 5. [Databases and SQL for Data Science with Python](https://coursera.org/share/cce08d3e0cef1da887c1e07033875680)
+* Course 6. [Hands-on Introductino to Linux Commands and Shell Scripting](https://www.coursera.org/account/accomplishments/verify/XL5J6P3NWU4D)
+* Course 7. [Relational Database Administration (DBA)](https://coursera.org/share/8ae4475be4ad7d41f75f65e867d595fd)
+* Course 8. [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/935e6b0141521f6214cc452a956d0c89)
+* Course 9. [Getting Started with Data Warehousing and BI Analytics](https://coursera.org/share/11141c1e7f2b58e2d4915adb4baca842)
+* Course 10. [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/verify/B86E3M4KGSCB)
+* Course 11. [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/account/accomplishments/verify/C6GF4PAD3RGH) 
+* Course 12. [Data Engineering and Machine Learning uisng Spark](https://coursera.org/share/7190d4b62ddec1c5b7b62fa4b2e65f0c) 
+* Course 13. [Data Engineering Capstone Project](https://coursera.org/share/c57355a985791c4323df2aba64c54bc8)
 <br/>
 
 ## Course Details
