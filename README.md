@@ -88,7 +88,7 @@ by IBM via Coursera `Completed`<br/><br/>
   * Apply Spark programming basics, including parallel programming basics for DataFrames, data sets, and Spark SQL.
   * Use Spark’s RDDs and data sets, optimize Spark SQL using Catalyst and Tungsten, and use Spark’s development and runtime environment options.<br/><br/>
 
-**12. [Data Engineering and Machine Learning uisng Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)**<br/>
+**12. [DMachine Learning with Apache Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer)**<br/>
   * Describe ML, explain its role in data engineering, summarize generative AI, discuss Spark's uses, and analyze ML pipelines and model persistence.
   * Evaluate ML models, distinguish between regression, classification, and clustering models, and compare data engineering pipelines with ML pipelines.
   * Construct the data analysis processes using Spark SQL, and perform regression, classification, and clustering using SparkML.
