@@ -1,6 +1,5 @@
-// Practice Exercises
-
-// 1. Set the price of the diamond with id 2 to 352
+# Practice Exercises
+# 1. Set the price of the diamond with id 2 to 352
 curl -X GET $CLOUDANTURL/diamonds/2
 curl -X PUT $CLOUDANTURL/diamonds/2 -d '{
     "_id": "2",
@@ -14,7 +13,7 @@ curl -X PUT $CLOUDANTURL/diamonds/2 -d '{
     "price": 352
 }'
 
-// 2. Crete an index on the key "carat"
+# 2. Crete an index on the key "carat"
 curl -X POST $CLOUDANTURL/diamonds/_index \
 -H"Content-Type: application/json" \
 -d'{
@@ -23,7 +22,7 @@ curl -X POST $CLOUDANTURL/diamonds/_index \
     }
 }'
 
-// 3. Find all diamonds that are more than 0.3 carats
+# 3. Find all diamonds that are more than 0.3 carats
 curl -X POST $CLOUDANTURL/diamonds/_find \
 -H"Content-Type: application/json" \
 -d'{
@@ -34,7 +33,7 @@ curl -X POST $CLOUDANTURL/diamonds/_find \
     }
 }'
 
-// 4. Find all diamonds that have a premium cut
+# 4. Find all diamonds that have a premium cut
 curl -X POST $CLOUDANTURL/diamonds/_find \
 -H"Content-Type: application/json" \
 -d'{
@@ -43,7 +42,7 @@ curl -X POST $CLOUDANTURL/diamonds/_find \
     }
 }'
 
-// 5. Find all diamonds that are of color 'E'
+# 5. Find all diamonds that are of color 'E'
 curl -X POST $CLOUDANTURL/diamonds/_find \
 -H"Content-Type: application/json" \
 -d'{

@@ -1,28 +1,28 @@
-// Test if you can reach your Cloudant server
+# Test if you can reach your Cloudant server
 curl $CLOUDANTURL
 
-// Get a list of your database
+# Get a list of your database
 curl $CLOUDANTURL/_all_dbs
 
-// Create a database named animals
+# Create a database named animals
 curl -X PUT $CLOUDANTURL/animals
 
-// Delete the database named animals
+# Delete the database named animals
 curl -X DELETE $CLOUDANTURL/animals
 
-// Create a database named planets
+# Create a database named planets
 curl -X PUT $CLOUDANTURL/planets
 
-// Insert a document in the planets database with _id of "1"
+# Insert a document in the planets database with _id of "1"
 curl -X PUT $CLOUDANTURL/planets/"1" -d '{
     "name": "Mercury",
     "position_from_sum": 1
 }'
 
-// Verify by listing the document with the _id "1"
+# Verify by listing the document with the _id "1"
 curl -X GET $CLOUDANTURL/planets/1
 
-// Update a document
+# Update a document
 curl -X PUT $CLOUDANTURL/planets/1 -d'{
     "name": "Mercury",
     "position_from_sum": 1,
@@ -30,7 +30,7 @@ curl -X PUT $CLOUDANTURL/planets/1 -d'{
     "_rev": "1-473b9806b957558dd32d93615e94ec31"
 }'
 
-// Update a document
+# Update a document
 curl -X PUT $CLOUDANTURL/planets/1 -d '{
     "name": "Mercury",
     "position_from_sum": 1,
@@ -39,14 +39,14 @@ curl -X PUT $CLOUDANTURL/planets/1 -d '{
     "_rev": "2-c82d0b7f587b2a90f7cb6f6d963b5486"
 }'
 
-// Delete a document
+# Delete a document
 curl -X DELETE $CLOUDANTURL/planets/1?rev=3-a6f41a3d464275e74cc75295c85b1162
 
-// Delete an existing database and create a new one
+# Delete an existing database and create a new one
 curl -X DELETE $CLOUDANTURL/diamonds
 curl -X PUT $CLOUDANTURL/diamonds
 
-// Insert documents
+# Insert documents
 curl -X PUT $CLOUDANTURL/diamonds/1 -d'{
     "carat": 0.31,
     "cut": "Ideal",
@@ -147,7 +147,7 @@ curl -X PUT $CLOUDANTURL/diamonds/10 -d '{
     "price": 346
 }'
 
-// Query for diamond with _id 1
+# Query for diamond with _id 1
 curl -X POST $CLOUDANTURL/diamonds/_find \
 -H "Content-Type: application/json" \
 -d '{
@@ -156,7 +156,7 @@ curl -X POST $CLOUDANTURL/diamonds/_find \
     }
 }'
 
-// Query for diamonds with carat size of 0.3
+# Query for diamonds with carat size of 0.3
 curl -X POST $CLOUDANTURL/diamonds/_find \
 -H "Content-Type: application/json" \
 -d '{
@@ -165,7 +165,7 @@ curl -X POST $CLOUDANTURL/diamonds/_find \
     }
 }'
 
-// Query for diamonds with price more than 345
+# Query for diamonds with price more than 345
 curl -X POST $CLOUDANTURL/diamonds/_find \
 -H "Content-Type: application/json" \
 -d '{
@@ -176,7 +176,7 @@ curl -X POST $CLOUDANTURL/diamonds/_find \
     }
 }'
 
-// Create an index on the key "price"
+# Create an index on the key "price"
 curl -X POST $CLOUDANTURL/diamonds/_index \
 -H"Content-Type: application/json" \
 -d'{
