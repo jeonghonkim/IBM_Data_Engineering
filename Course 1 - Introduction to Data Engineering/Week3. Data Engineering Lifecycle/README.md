@@ -9,4 +9,6 @@ In this module, we will walk you through the data engineering lifecycle. You wil
 * Explain some of the different dimensions of security as it applies to the data engineering lifecycle.
 * Summarize the practices employed for gathering, wrangling, and querying data.
 * Describe the types of issues that can impact the performance of data pipelines and databases and discuss steps for troubleshooting these issues.
-* Explain why governance and compliance is vital throughout the data lifecycle and how technology enables compliance with regulations.
+* Explain why governance and compliance is vital throughout the data lifecycle and how technology enables compliance with regulations. <br><br>
+
+<img src="https://github.com/jeonghonkim/IBM_Data_Engineering/blob/main/Course%201%20-%20Introduction%20to%20Data%20Engineering/Week3.%20Data%20Engineering%20Lifecycle/Layers%20of%20a%20Data%20Platform%20Architecture.JPG" width="1200" height="500"> <br>
